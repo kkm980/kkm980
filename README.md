@@ -43,7 +43,7 @@
   <img height="40px" width="40px" src="https://img.icons8.com/color/48/000000/css3.png"/>
   <img height="40px" width="40px" src="https://img.icons8.com/nolan/64/html-5.png"/>
   <img height="40px" width="40px" src="https://img.icons8.com/color/48/000000/typescript.png"/>
-  <img height="40px" width="40px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+  <img alt="svgImg" width="40px" height="40px" src="https://yt3.ggpht.com/ytc/AKedOLQP0vNXjkoKrCAYvWyOm9vEhDuBNytjbpEYi1ugD7w=s900-c-k-c0x00ffffff-no-rj"/>
   <img height="40px" width="40px" src="https://cdn-icons.flaticon.com/png/512/3045/premium/3045879.png?token=exp=1635267169~hmac=e9e82e5d22d18afb2db1510dfa637639"/>
   <img height="40px" width="40px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   <img height="40px" width="40px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
