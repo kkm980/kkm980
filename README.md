@@ -44,10 +44,10 @@
   <img height="40px" width="40px" src="https://img.icons8.com/nolan/64/html-5.png"/>
   <img height="40px" width="40px" src="https://img.icons8.com/color/48/000000/typescript.png"/>
   <img alt="svgImg" width="40px" height="40px" src="https://yt3.ggpht.com/ytc/AKedOLQP0vNXjkoKrCAYvWyOm9vEhDuBNytjbpEYi1ugD7w=s900-c-k-c0x00ffffff-no-rj"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo7ggOCcZM5Ny9ANmlSZIAllsn8disPTZ6mQ&usqp=CAU"/>
+  <img  width="60px" height="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo7ggOCcZM5Ny9ANmlSZIAllsn8disPTZ6mQ&usqp=CAU"/>
   <img height="40px" width="40px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   <img height="40px" width="40px" src="https://pluralsight2.imgix.net/paths/images/nodejs-45adbe594d.png"/>
-  <img height="40px" width="40px" src="https://drive.google.com/file/d/1dEjsVrBFkHoVOTBUUGOGHnoXQtVczFca/view?usp=sharing"/>
+  <img src="https://drive.google.com/file/d/1dEjsVrBFkHoVOTBUUGOGHnoXQtVczFca/view?usp=sharing"/>
   <img height="40px" width="40px" src="https://cdn-icons-png.flaticon.com/512/4901/4901640.png"/>
   <img height="40px" width="40px" src="https://img.icons8.com/color/48/000000/npm.png"/>
   <img height="40px" width="40px" src="https://img.icons8.com/color/48/000000/git.png"/>
