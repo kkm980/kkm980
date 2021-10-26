@@ -30,9 +30,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://github.com/kkm980" target="_blank"><img src="https://img.icons8.com/color/50/000000/github--v1.png" align="center" width="40px" height:"50px"/></a>
-<a href="https://linkedin.com/in/krishna980" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna980" height="30" width="40" /></a>
-<a href="https://medium.com/@kantkrishna751" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kantkrishna751" height="30" width="40" /></a>
+  <a href="https://github.com/kkm980" target="__blank"><img src="https://img.icons8.com/color/50/000000/github--v1.png" align="center" width="40px" height:"50px"/></a>
+<a href="https://linkedin.com/in/krishna980" target="__blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna980" height="30" width="40" /></a>
+<a href="https://medium.com/@kantkrishna751" target="__blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kantkrishna751" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Skills:</h3>
