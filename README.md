@@ -24,7 +24,7 @@
 
 - ⚡ Fun fact **I am athletic; I can surf the web for hours.**
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -47,7 +47,7 @@
   <img  width="60px" height="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo7ggOCcZM5Ny9ANmlSZIAllsn8disPTZ6mQ&usqp=CAU"/>
   <img height="40px" width="40px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   <img height="40px" width="40px" src="https://pluralsight2.imgix.net/paths/images/nodejs-45adbe594d.png"/>
-  <img src="https://drive.google.com/file/d/1dEjsVrBFkHoVOTBUUGOGHnoXQtVczFca/view?usp=sharing"/>
+  <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
   <img height="40px" width="40px" src="https://cdn-icons-png.flaticon.com/512/4901/4901640.png"/>
   <img height="40px" width="40px" src="https://img.icons8.com/color/48/000000/npm.png"/>
   <img height="40px" width="40px" src="https://img.icons8.com/color/48/000000/git.png"/>
@@ -57,4 +57,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kkm980&show_icons=true&locale=en" alt="kkm980" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kkm980&" alt="kkm980" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kkm980&" alt="kkm980" /></p>
