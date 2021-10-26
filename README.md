@@ -44,7 +44,7 @@
   <img height="40px" width="40px" src="https://img.icons8.com/nolan/64/html-5.png"/>
   <img height="40px" width="40px" src="https://img.icons8.com/color/48/000000/typescript.png"/>
   <img alt="svgImg" width="40px" height="40px" src="https://yt3.ggpht.com/ytc/AKedOLQP0vNXjkoKrCAYvWyOm9vEhDuBNytjbpEYi1ugD7w=s900-c-k-c0x00ffffff-no-rj"/>
-  <img height="40px" width="40px" src="https://www.outsystems.com/Forge_CW/_image.aspx/Q8LvY--6WakOw9afDCuuGTj6IS3yV21x_xamyILfGsw=/websocket"/>
+  <img height="40px" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo7ggOCcZM5Ny9ANmlSZIAllsn8disPTZ6mQ&usqp=CAU"/>
   <img height="40px" width="40px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   <img height="40px" width="40px" src="https://pluralsight2.imgix.net/paths/images/nodejs-45adbe594d.png"/>
   <img height="40px" width="40px" src="https://drive.google.com/file/d/1dEjsVrBFkHoVOTBUUGOGHnoXQtVczFca/view?usp=sharing"/>
