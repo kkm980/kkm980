@@ -46,8 +46,8 @@
   <img alt="svgImg" width="40px" height="40px" src="https://yt3.ggpht.com/ytc/AKedOLQP0vNXjkoKrCAYvWyOm9vEhDuBNytjbpEYi1ugD7w=s900-c-k-c0x00ffffff-no-rj"/>
   <img height="40px" width="40px" src="https://cdn-icons.flaticon.com/png/512/3045/premium/3045879.png?token=exp=1635267169~hmac=e9e82e5d22d18afb2db1510dfa637639"/>
   <img height="40px" width="40px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img height="40px" width="40px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-  <img height="40px" width="40px" src="https://img.icons8.com/color/48/000000/express.png"/>
+  <img height="40px" width="40px" src="https://pluralsight2.imgix.net/paths/images/nodejs-45adbe594d.png"/>
+  <img height="40px" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeqn_d_tqtzvg0Y0zLLLVSnm6oo8OuKx03kQ&usqp=CAU"/>
   <img height="40px" width="40px" src="https://cdn-icons-png.flaticon.com/512/4901/4901640.png"/>
   <img height="40px" width="40px" src="https://img.icons8.com/color/48/000000/npm.png"/>
   <img height="40px" width="40px" src="https://img.icons8.com/color/48/000000/git.png"/>
