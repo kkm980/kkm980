@@ -41,7 +41,7 @@
   <img height="40px" width="40px" src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
   <img height="40px" width="40px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
   <img height="40px" width="40px" src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <img height="40px" width="40px" src="https://img.icons8.com/ios/50/000000/html-5--v2.png"/>
+  <img height="40px" width="40px" src="https://img.icons8.com/nolan/64/html-5.png"/>
   <img height="40px" width="40px" src="https://img.icons8.com/color/48/000000/typescript.png"/>
   <img height="40px" width="40px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
   <img height="40px" width="40px" src="https://cdn-icons.flaticon.com/png/512/3045/premium/3045879.png?token=exp=1635267169~hmac=e9e82e5d22d18afb2db1510dfa637639"/>
