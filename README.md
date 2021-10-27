@@ -30,7 +30,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="mailto:kantkrishna751@gmail.com?subject=Let us connect for future projects" target="_blank"><img width="40" height="30" src="https://img.icons8.com/color/48/000000/apple-mail.png"/></a>
+  <a href="mailto:kantkrishna751@gmail.com?subject=Let us connect for future projects" target="_blank"><img align="center" width="40" height="30" src="https://img.icons8.com/color/48/000000/apple-mail.png"/></a>
 <a href="https://linkedin.com/in/krishna980" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna980" height="30" width="40" /></a>
 <a href="https://medium.com/@kantkrishna751" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kantkrishna751" height="30" width="40" /></a>
 </p>
