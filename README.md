@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkm980&label=Profile%20views&color=0e75b6&style=flat" alt="kkm980" /> </p>
 <img alt="" src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif" align="right" width="400px"/>
 
-- I’m currently working on **Personal Projects**
+<!-- - I’m currently working on **Personal Projects** -->
 
 - 🌱 I’m currently learning **Full stack web development**
 
