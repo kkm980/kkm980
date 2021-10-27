@@ -54,8 +54,23 @@
   <img height="40px" width="40px" src="https://img.icons8.com/color/48/000000/git.png"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kkm980&show_icons=true&locale=en&layout=compact" alt="kkm980" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kkm980&show_icons=true&locale=en&layout=compact" alt="kkm980" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kkm980&show_icons=true&locale=en" alt="kkm980" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kkm980&" alt="kkm980" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kkm980&" alt="kkm980" /></p> -->
+
+
+<div align="left">
+  <p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=kkm980&theme=synthwave" alt="Sharad13" width="47%" />
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kkm980&theme=synthwave" alt="Sharad13" width="47%" />
+  </p>
+</div>
+<div align="center">
+<a href="https://github.com/kkm980/github-readme-activity-graph"><img alt="Krishna graph" src="https://activity-graph.herokuapp.com/graph?username=kkm980&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+</div>
+<div align="center">
+   <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs?username=kkm980&theme=synthwave" alt="kkm980" />
+</div>
+
