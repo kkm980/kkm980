@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, <img height="30px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/> myself Krishna Kant</h1>
+<h1 align="center">Hi there <img height="30px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/> myself Krishna Kant</h1>
 <h3 align="center">I mix coffee with code and establish a virtual existence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkm980&label=Profile%20views&color=0e75b6&style=flat" alt="kkm980" /> </p>
