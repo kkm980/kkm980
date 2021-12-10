@@ -6,11 +6,21 @@
 
 <!-- - I’m currently working on **Personal Projects** -->
 
-- 🌱 I’m currently learning **Full stack web development**
+- 🌱 I’m currently learning **Full stack web development** and working on my personal projects- [Netflix Clone](https://github.com/kkm980/netflix_clone) and [Complete E-Commerce website application]
 
-- 👯 My first collaboration [Bluemercury.com](https://drive.google.com/file/d/1qiPClPEqAAbUyTHNSMYQssOJvAdNQGsI/view)
+- 👯 My first collaboration project [Orbitz.com](https://nrjrwt0.github.io/Orbitz-clone/)
 
-- 🤝 My team work [Himalayausa.com](https://himalayasusa-clone-krishnakantmishra980-gmailcom.vercel.app/)
+- 👯 My first Full-stack collaboration [Bluemercury.com](https://drive.google.com/file/d/1qiPClPEqAAbUyTHNSMYQssOJvAdNQGsI/view)
+
+- 🤝 My first MERN stack collaboration [Himalayausa.com](https://himalayasusa-clone-krishnakantmishra980-gmailcom.vercel.app/)
+
+- 🤝 My second MERN stack collaboration [gab.com](https://gab-clone.netlify.app/)
+
+- 🤝 My HACKATHON project collaboration [presentation](https://drive.google.com/file/d/1dCHoDKq28ffpE4BMLsdE4QKokkDrQtQh/view), [repo](https://github.com/kkm980/hackathon-CaptchaMart)
+
+- 🌱 My personal project [Tic Tac Toe game](https://game-kkrishna.vercel.app/)
+
+- 🌱 My first TypeScript project [Weather App](https://weather-app-kkrishna.vercel.app/)
 
 - 👨‍💻 Pay a visit [https://portfolio-kkrishna.vercel.app/](https://portfolio-kkrishna.vercel.app/)
 
