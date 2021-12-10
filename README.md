@@ -20,7 +20,7 @@
 
 - 📫 Say a hi **kantkrishna751@gmail.com**
 
-- 📄 Have a look [https://drive.google.com/file/d/1h1lo4pYnkjV70iCcAcdZU3AaoT-E-BEY/view](https://drive.google.com/file/d/1h1lo4pYnkjV70iCcAcdZU3AaoT-E-BEY/view)
+- 📄 Have a look [https://drive.google.com/file/d/1h1lo4pYnkjV70iCcAcdZU3AaoT-E-BEY/view](https://bit.ly/3lRKTJY)
 
 - ⚡ Fun fact **I am athletic; I can surf the web for hours.**
 
