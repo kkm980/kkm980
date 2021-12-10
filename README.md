@@ -6,7 +6,7 @@
 
 <!-- - I’m currently working on **Personal Projects** -->
 
-- 🌱 I’m currently learning **Full stack web development** and working on my personal projects- [Netflix Clone](https://github.com/kkm980/netflix_clone) and [Complete E-Commerce website application]
+- 🌱 I’m currently learning **Full stack web development** and working on my personal projects- [Netflix Clone](https://github.com/kkm980/netflix_clone) and Complete E-Commerce website application
 
 - 👯 My first collaboration project [Orbitz.com](https://nrjrwt0.github.io/Orbitz-clone/)
 
