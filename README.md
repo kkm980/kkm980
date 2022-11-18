@@ -30,7 +30,7 @@
 
 - 📫 Say a hi **kantkrishna751@gmail.com**
 
-- 📄 Have a look at [my Resume]([https://drive.google.com/file/d/18rJPO5pCqNGAUtDqjbRFlN23_2YfCJYB/view?usp=sharing])
+- 📄 Have a look at [my Resume](https://drive.google.com/file/d/18rJPO5pCqNGAUtDqjbRFlN23_2YfCJYB/view?usp=sharing)
 
 - ⚡ Fun fact **I am athletic; I can surf the web for hours.**
 
